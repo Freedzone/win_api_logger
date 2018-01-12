@@ -1,2 +1,2 @@
-# win_api_logger
-Some windows api calls logger. Can be useful for dynamic malware analysis.
+# Windows APIs logger
+I will come up with something exciting later :)
