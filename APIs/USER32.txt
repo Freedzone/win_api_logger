@@ -1,0 +1,9 @@
+EnableWindow
+IsIconic
+GetClientRect
+SetWindowLongA
+GetSystemMetrics
+FindWindowA
+SendMessageA
+LoadIconA
+DrawIcon
